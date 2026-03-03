@@ -1,4 +1,4 @@
-# San Andreas Apocalypse v.1.0.5
+# San Andreas Apocalypse v.1.0.8
 
 For detailed gameplay information, visit the wiki:   
 https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki   
