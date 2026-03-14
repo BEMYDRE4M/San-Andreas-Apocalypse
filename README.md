@@ -1,7 +1,8 @@
-# San Andreas Apocalypse v.1.0.8
+# San Andreas Apocalypse v.1.1.0
 
-For detailed gameplay information, visit the wiki:   
-https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki   
+### Dive into a post-apocalyptic multiplayer adventure in the world of San Andreas.
+
+#### For detailed gameplay information, visit the wiki: https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki   
 
 |Category|Amount|
 |--------|------|
