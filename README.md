@@ -6,10 +6,10 @@ https://multitheftauto.com
 
 |Category|Amount|
 |--------|------|
-|LUA files|427|
-|other files|937|
-|functions|2709|
-|lines|60813|
-|characters|2423910|
-|comment-lines|1037|
-|comment-characters|18035|
+|LUA files|455|
+|other files|1027|
+|functions|3210|
+|lines|74689|
+|characters|3000453|
+|comment-lines|1220|
+|comment-characters|20430|
