@@ -1,9 +1,14 @@
-# San Andreas Apocalypse v.1.1.0
+<img src="SAApocalypse.png" width="350">   
 
-### Dive into a post-apocalyptic multiplayer adventure in the world of Grand Theft Auto: San Andreas.
-https://multitheftauto.com
-#### For detailed gameplay information, visit the wiki: https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki   
+#### v.1.1.0
 
+Dive into a post-apocalyptic multiplayer adventure in the world of Grand Theft Auto: San Andreas.   
+https://multitheftauto.com   
+
+For detailed gameplay information, visit the wiki:   
+https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki       
+
+## Gamemode Informations
 |Category|Amount|
 |--------|------|
 |LUA files|491|
