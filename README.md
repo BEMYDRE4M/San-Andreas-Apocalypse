@@ -8,7 +8,7 @@ https://multitheftauto.com
 For detailed gameplay information, visit the wiki:   
 https://github.com/KrynxtioN/San-Andreas-Apocalypse/wiki       
 
-## Gamemode Informations
+## Game Mode Statistics
 |Category|Amount|
 |--------|------|
 |LUA files|491|
