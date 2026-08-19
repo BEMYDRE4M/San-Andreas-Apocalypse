@@ -6,12 +6,12 @@ For detailed gameplay information, visit the wiki: https://github.com/KrynxtioN/
 
 |Gamemode Overview||
 |--------|------|
-|LUA FILES|491|
-|OTHER FILES (png,mp3 etc.)|1133|
-|FUNCTIONS|3756|
-|LINES|95861|
-|CHARACTERS|3844479|
-|COMMENT-LINES|1284|
-|COMMENT-CHARACTERS|21975|
-|TOTAL UPDATES|43| 
-|CURRENT VERSION|1.1.0| 
+|LUA files|491|
+|other files|1133|
+|functions|3756|
+|lines|95861|
+|characters|3844479|
+|comment-lines|1284|
+|comment-characters|21975|
+|total updates|43| 
+|current version|1.1.0| 
